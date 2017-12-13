@@ -1,6 +1,6 @@
 ## Obfuscator-LLVM 4.0 BUILD AND SETUP TO NDK 
 
-1.执行shell之前 需要先配置环境变量$NDK_ROOT，如果不能提供，则手动修改 shell文件中$NDK_ROOT;
+1.执行shell之前 需要先配置环境变量$NDK_ROOT;
 
 ``` shell
 
@@ -12,6 +12,8 @@ vi .bash_profile
 
 ```
 
+
+**如果不能提供该环境变量，则手动修改 shell文件中$NDK_ROOT;**
 
 
 2.执行shell文件,会执行 clone, build ,toolchains中copy新目录;
