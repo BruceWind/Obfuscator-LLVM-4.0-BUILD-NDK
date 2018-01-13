@@ -43,4 +43,7 @@ PS:如果第二步，build始终没有build成功，这里有一个我build出�
 
 
 
+-------------
 
+Windows用户：
+实在抱歉，我手里没有windows。windows用户 ，我无法去支援您编译这个库。
