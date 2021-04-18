@@ -49,7 +49,7 @@ Windows用户：
 实在抱歉，我手里没有windows。windows用户 ，我无法去支援您编译这个库。
 
 
-推荐您使用： [docker-ollvm](https://github.com/nickdiego/docker-ollvm)
+推荐您使用： [docker-ollvm](https://github.com/nickdiego/docker-ollvm)。
 
 -----
 [官方wiki](https://github.com/obfuscator-llvm/obfuscator/wiki/Installation#how-to-use-it)
