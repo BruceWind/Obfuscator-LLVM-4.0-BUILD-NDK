@@ -49,7 +49,8 @@ Windows用户：
 实在抱歉，我手里没有windows。windows用户 ，我无法去支援您编译这个库。
 
 
-推荐您使用： [docker-ollvm](https://github.com/nickdiego/docker-ollvm)。该docker镜像是一个别人配置好的环境，您无需再次配置。docker的使用的学习成本也很低，如果您不会使用docker 可以找一个会用docker的人帮助您。
+### 推荐您使用Docker镜像：
+[docker-ollvm](https://github.com/nickdiego/docker-ollvm)。该docker镜像是一个别人配置好的环境，您无需再次配置。docker的使用的学习成本也很低，如果您不会使用docker 可以找一个有docker经验的人帮助您。
 
 -----
 [官方wiki](https://github.com/obfuscator-llvm/obfuscator/wiki/Installation#how-to-use-it)
